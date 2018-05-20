@@ -6,7 +6,7 @@
 
 [Требования к CSS стилям](files/css-requirements.md)
 
-[Требования к JavaScript](files/javascript-requirements.md)
+[Требования к JavaScript](/files/javascript-requirements.md)
 
 ### Back-end
 
