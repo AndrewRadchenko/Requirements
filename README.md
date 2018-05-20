@@ -22,4 +22,6 @@
 
 [Требования к работе с базами данных](files/db-requirements.md)
 
-## HostCMS
+## Требования к применению движков
+
+[HostCMS](files/hostcms-requirements.md)
