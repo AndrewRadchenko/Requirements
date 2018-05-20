@@ -2,11 +2,11 @@
 
 ## Организация
 
-Постановка задач
+[Постановка задач](files/tasks.md)
 
-Контроль версий
+[Контроль версий](files/version-control.md)
 
-Базы данных
+[Окружение и хранение данных](files/development-enviroment.md)
 
 ## Front-end
 
@@ -18,9 +18,8 @@
 
 ## Back-end
 
-[Требования к PHP]()
+[Требования к PHP](files/php-requirements.md)
 
-[Требования к работе с данными]()
-
+[Требования к работе с базами данных](files/db-requirements.md)
 
 ## HostCMS
