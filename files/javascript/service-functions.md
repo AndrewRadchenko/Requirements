@@ -1,4 +1,4 @@
-[Назад](../)
+[Назад](../javascript-requirements.md)
 
 # Требования к сервисным функциям JavaScript
 
@@ -21,7 +21,7 @@ function serviceFunction(parameters){
 
 Все сервисные функции определяются в отдельном .js файле.  
 
-[Назад](../)
+[Назад](../javascript-requirements.md)
 
 ## Другие разделы
 

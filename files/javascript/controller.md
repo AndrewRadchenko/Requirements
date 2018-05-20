@@ -1,10 +1,10 @@
-[Назад](../)
+[Назад](../javascript-requirements.md)
 
 # Требования к контроллерам JavaScript
 
 
 
-[Назад](../)
+[Назад](../javascript-requirements.md)
 
 ## Другие разделы
 
