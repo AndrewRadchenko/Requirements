@@ -1,11 +1,16 @@
-# Требования к работе с HostCMS
+[Назад](../hostcms-requirements.md)
 
-Официальная информация HostCMS:
-- [сайт](https://www.hostcms.ru/api6/)
-- [документация](https://www.hostcms.ru/documentation/)
-- [справочник api](https://www.hostcms.ru)
+# Запросы и ответы на сервер
 
-В процессе разработки обязательно соблюдение следующих требований:
+Get, POST, куки и данные сессии должны обрабатываться только средствами HostCMS.
+
+Прямое получение указанных выше данных недопускается.
+
+
+[Назад](../javascript-requirements.md)
+
+## Другие разделы
+
 - [Общие требования](hostcms/basic-requirements.md)
 - [Обязательные изменения](hostcms/changes.md)
 - [Разметка сайта](hostcms/microdata.md)
